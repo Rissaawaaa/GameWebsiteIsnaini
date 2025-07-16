@@ -97,11 +97,11 @@ nav a {
 
 
 /* Sample background images */
-.minecraft { background-image: url("../media/pics/Screenshot 2025-07-14 012359.png"); }
-.nfs { background-image: url("../media/pics/Screenshot 2025-07-14 012857.png"); }
-.rhythm { background-image: url("../media/pics/Screenshot 2025-07-14 012656.png"); }
-.fallenorder { background-image: url("../media/pics/Screenshot 2025-07-14 013203.png"); }
-.unity { background-image: url("../media/pics/Screenshot 2025-07-14 013529.png"); }
+.minecraft { background-image: url("/media/pics/Screenshot 2025-07-14 012359.png"); }
+.nfs { background-image: url("/media/pics/Screenshot 2025-07-14 012857.png"); }
+.rhythm { background-image: url("/media/pics/Screenshot 2025-07-14 012656.png"); }
+.fallenorder { background-image: url("/media/pics/Screenshot 2025-07-14 013203.png"); }
+.unity { background-image: url("/media/pics/Screenshot 2025-07-14 013529.png"); }
 
 * {
   margin: 0;
